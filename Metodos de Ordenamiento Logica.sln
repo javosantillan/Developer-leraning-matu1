@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Metodos de ordenamiento Lógica", "Metodos de ordenamiento Lógica.vbproj", "{7C72FC53-A0C8-461A-AFA5-F1B82F6F9F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C72FC53-A0C8-461A-AFA5-F1B82F6F9F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C72FC53-A0C8-461A-AFA5-F1B82F6F9F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C72FC53-A0C8-461A-AFA5-F1B82F6F9F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C72FC53-A0C8-461A-AFA5-F1B82F6F9F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251F1A46-4C01-4CAF-A39B-047269B2F177}
+	EndGlobalSection
+EndGlobal
